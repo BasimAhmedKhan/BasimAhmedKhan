@@ -1,8 +1,8 @@
-### Hola Amigo, I'm Basim aka Bugs [BugsImage]
+### Hola Amigo👋, I'm Basim aka Bugs ![BugsImage](https://www.free-emoticons.com/files/cartoon-emoticons/3473.png)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer and a Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first course:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -10,11 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="BasimAhmedKhan | Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" />][facebook]
+[<img align="left" alt="BasimAhmedKhan | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="BasimAhmedKhan | Snapchat" width="22px" src="https://img.icons8.com/color/48/000000/snapchat-circled-logo--v1.png" />][snapchat]
+[<img align="left" alt="BasimAhmedKhan | LinkedIn" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-linkedin-in-logo-used-for-professional-networking-logo-shadow-tal-revivo.png" />][linkedin]
 
 <br />
 
@@ -40,11 +39,8 @@
 <br />
 <br />
 
-![BugsImage](https://www.free-emoticons.com/files/cartoon-emoticons/3473.png)
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[facebook]: https://www.facebook.com/profile.php?id=100009322472394
+[instagram]: https://www.instagram.com/basim_khann
+[snapchat]: 
+
+
