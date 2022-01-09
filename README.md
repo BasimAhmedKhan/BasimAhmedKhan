@@ -8,7 +8,7 @@
 ### - 🥅 2022 Goals: Contribute more to Open Source projects
 ### - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="BasimAhmedKhan | Facebook" width="22px" src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" />][facebook]
 [<img align="left" alt="BasimAhmedKhan | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
@@ -17,7 +17,7 @@
 
 <br />
 
-### Languages and Tools I Use:
+## Languages and Tools I Use:
 
 
 <br />
