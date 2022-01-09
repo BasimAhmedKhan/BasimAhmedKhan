@@ -1,4 +1,4 @@
-### Hola Amigo👋, I'm Basim aka Bugs ![BugsImage](https://www.free-emoticons.com/files/cartoon-emoticons/3473.png)
+# Hola Amigo👋, I'm Basim, but you can call me Bugs ![BugsImage](https://icons.iconarchive.com/icons/sykonist/looney-tunes/48/Bugs-Bunny-Carrot-icon.png)
 
 ## I'm a Developer and a Teacher!!
 
