@@ -6,7 +6,7 @@
 ### - 🌱 I’m Currently Learning Web Development 
 ### - 👯 I’m looking to Collaborate with Others.
 ### - 🥅 2022 Goals: Contribute more to Open Source projects
-### - ⚡ Fun fact: I love to draw and play guitar / drums
+### - ⚡ Fun fact: I love to sing and play guitar.
 
 ## Connect with me:
 
