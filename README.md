@@ -2,11 +2,11 @@
 
 ## I'm a Developer and a Teacher!!
 
-### - 🔭 I'm Currently Working on Java.
+### - 🔭 I'm Currently Working on Javascript.
 ### - 🌱 I’m Currently Learning Web Development 
 ### - 👯 I’m looking to Collaborate with Others.
 ### - 🥅 2022 Goals: Contribute more to Open Source projects
-### - ⚡ Fun fact: I love to sing and play guitar.
+### - ⚡ Fun fact: I love to sing and play games.
 
 ## Connect with me:
 
