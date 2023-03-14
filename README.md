@@ -29,4 +29,4 @@
 [linkedin]: https://www.linkedin.com/in/basim-khan-604a76189/
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasimAhmedKhan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Basim GitHub stats](https://github-readme-stats.vercel.app/api?username=BasimAhmedKhan&show_icons=true&theme=radical&env=PAT_1)]
