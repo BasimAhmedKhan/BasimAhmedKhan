@@ -2,7 +2,7 @@
 
 <br />
 
-Hey there! I'm Basim Khan, I'm currently pursuing my Bachelors in Computer Science from Iqra University. I'm a Web & Mobile App Developer. I love to code and most of the time I do stuff programing related, When I am not coding I usually hang out with my firends explore new places try new foods, binge waching some cool shows and movies and das it thats my life.
+Hey there! I'm Basim Khan, I'm currently pursuing my Bachelors in Computer Science from Iqra University. I'm a Web & Mobile App Developer. I love to code and most of the time I do stuff programing related. When I am not coding I usually hang out with my friends, explore new places, try some new foods, binge-watch some cool shows and movies and das it thats my life.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
