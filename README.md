@@ -6,14 +6,14 @@ Hey there! I'm Basim Khan, I'm currently pursuing my Bachelors in Computer Scien
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-#### .- 🔭 I'm Currently Working on React/Next, Node.JS, MongoDB.
-#### .- 🌱 I’m Currently Exploring Full Stack Development. 
-#### .- 👯 I’m looking to Collaborate with Others.
-#### .- 💬 Ask me about Python, Javascript, Next/React, Desktop Applications, Web development, Automation;
-#### .- 🥅 2023 Goals: Contribute more to Open Source Projects
-#### .- ⚡ Fun fact: I Love to Sing and Play Games.
-#### .- 📫 How to reach me: kbasim039@gmail.com;
-#### .- 📝[Portfolio](https://basimkhan.me/)
+#### - 🔭 I'm Currently Working on React/Next, Node.JS, MongoDB.
+#### - 🌱 I’m Currently Exploring Full Stack Development. 
+#### - 👯 I’m looking to Collaborate with Others.
+#### - 💬 Ask me about Python, Javascript, Next/React, Desktop Applications, Web development, Automation;
+#### - 🥅 2024 Goals: Contribute more to Open Source Projects
+#### - ⚡ Fun fact: I Love to Sing and Play Games.
+#### - 📫 How to reach me: kbasim039@gmail.com;
+#### - 📝[Portfolio](https://basimkhan.me/)
 
 ## 🌐 Connect with me:
 
